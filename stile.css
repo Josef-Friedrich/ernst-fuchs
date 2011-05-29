@@ -1,0 +1,198 @@
+@charset "utf-8";
+body {
+	margin:0;
+	font-family: sans-serif, Arial, Helvetica;
+	font-size: 14px;
+	color: #000000;
+}
+img {
+	border:0;
+}
+.wrapper {
+	margin: 0 auto;
+	width: 672px;
+}
+.Navigationsleiste {
+	position:relative;
+	height:252px;
+
+}
+.quad380left, .quad380leftactive {
+    display:block;
+	position: absolute;
+	width: 334px;
+	height: 250px;
+	background-color: #002A2B;
+	border: 1px solid #002A2B; 
+	border-right-color: #FFFFFF;
+}
+
+.quad190topleft, .quad190topleftactive, .quad190topright, .quad190toprightactive, .quad190bottomleft, .quad190bottomleftactive, .quad190bottomrightactive, .quad190bottomright{
+	display:block;
+	position: absolute;
+	width: 166px;
+	height: 124px;
+	border: 1px solid #016767; 
+	background-color: #016767;
+}
+
+/* position */
+
+.quad380left, .quad380left {
+	top: 0px;
+	left: 0px;
+}
+
+.quad190topleft, .quad190topleftactive{
+	top:0px;
+	left: 336px;
+}
+.quad190topright, .quad190toprightactive{
+	top:0px;
+	left: 504px;
+}
+.quad190bottomleft, .quad190bottomleftactive{
+	top: 126px;
+	left: 336px;
+}
+.quad190bottomright, .quad190bottomrightactive{
+	top: 126px;
+	left: 504px;
+}
+
+/* background-image active */
+
+.quad380left {
+	background-image:url(bilder/Schriftzug_ohne_Fuchs.png);
+}
+.quad190topleft {
+	background-image:url(bilder/Leben.png);
+}
+.quad190topright{
+	background-image:url(bilder/Werk.png);
+}
+.quad190bottomleft {
+	background-image:url(bilder/Fotos.png);
+}
+.quad190bottomright {
+	background-image:url(bilder/Dokumente.png);
+}
+
+/* background-image active */
+
+.quad380leftactive {
+	background-image:url(bilder/Schriftzug.png);
+}
+.quad190topleftactive {
+	background-image:url(bilder/Leben_mit_Fuchs.png);
+}
+.quad190toprightactive{
+	background-image:url(bilder/Werk_mit_Fuchs.png);
+}
+.quad190bottomleftactive {
+	background-image:url(bilder/Fotos_mit_Fuchs.png);
+}
+.quad190bottomrightactive {
+	background-image:url(bilder/Dokumente_mit_Fuchs.png);
+}
+
+/* hover */
+
+.quad380left:hover {
+	border: 1px solid #000000; 
+	background-color: #016767;
+
+}
+.quad190bottomleft:hover, .quad190bottomright:hover, .quad190topleft:hover, .quad190topright:hover {
+	border: 1px solid #000000;
+	background-color: #068283;
+}
+
+/*width 672px*/
+.content {
+	position:relative;
+	padding: 20px;
+	width: 632px;
+	min-height: 481px;
+	background-color: #068283;
+	padding-bottom: 20px;
+	}
+	
+
+
+
+
+/* top border white*/
+.quadkontakt, .quadimpressum, .content, .quadcopyright {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #FFFFFF;
+}
+.fussleiste {
+	position:relative;
+}
+
+.quadkontakt, .quadimpressum {
+	display:block;
+	top:0px;
+	height: 36px;
+    width: 83px;
+	padding-top:25px;
+	text-align:center;
+	vertical-align:middle;
+	color:#FFFFFF;
+}
+
+.quadkontakt {
+	width: 83px;
+	background-color: #b04000;
+}
+.quadimpressum {
+	position: absolute;
+	left: 84px;
+	background-color: #f0b000;
+}
+
+.quadcopyright {
+	width: 484px;
+	position: absolute;
+	left: 168px;
+	background-color: #002A2B;
+	display:block;
+	top:0px;
+	height: 36px;
+	padding-top:25px;
+	text-align:right;
+	padding-right:20px;
+	vertical-align:middle;
+	color:#FFFFFF;
+
+}
+
+img {
+	border 0px;
+}
+a:hover {
+	text-decoration:underline;
+}
+
+a{
+	text-decoration: none;
+	color: #002A2B;
+}
+.hrline{
+	border-top-color:#002A2B;
+	border-top-style:dotted;
+	border-top-width:1px;
+	margin: 8px;
+	padding:0px;
+	height:0px;
+
+}
+span {
+display: inline-block;
+padding:15px;
+margin: 5px;
+vertical-align:top;
+
+}
