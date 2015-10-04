@@ -1,24 +1,29 @@
 @charset "utf-8";
+
 body {
-	margin:0;
-	font-family: sans-serif, Arial, Helvetica;
-	font-size: 14px;
+	margin: 0;
+	font-family: 'Lato', sans-serif;
 	color: #000000;
 }
+
 img {
 	border:0;
 }
+
 .wrapper {
-	margin: 0 auto;
+	margin: 1em auto;
 	width: 672px;
+	box-shadow: 0px 0px 10em 1em rgba(84, 84, 84, 0.72);
 }
+
 .Navigationsleiste {
 	position:relative;
 	height:252px;
 
 }
+
 .quad380left, .quad380leftactive {
-    display:block;
+	display:block;
 	position: absolute;
 	width: 334px;
 	height: 250px;
@@ -55,54 +60,61 @@ img {
 	top: 126px;
 	left: 336px;
 }
+
 .quad190bottomright, .quad190bottomrightactive{
 	top: 126px;
 	left: 504px;
 }
 
 /* background-image active */
-
 .quad380left {
 	background-image:url(bilder/Schriftzug_ohne_Fuchs.png);
 }
+
 .quad190topleft {
 	background-image:url(bilder/Leben.png);
 }
+
 .quad190topright{
 	background-image:url(bilder/Werk.png);
 }
+
 .quad190bottomleft {
 	background-image:url(bilder/Fotos.png);
 }
+
 .quad190bottomright {
 	background-image:url(bilder/Dokumente.png);
 }
 
 /* background-image active */
-
 .quad380leftactive {
 	background-image:url(bilder/Schriftzug.png);
 }
+
 .quad190topleftactive {
 	background-image:url(bilder/Leben_mit_Fuchs.png);
 }
+
 .quad190toprightactive{
 	background-image:url(bilder/Werk_mit_Fuchs.png);
 }
+
 .quad190bottomleftactive {
 	background-image:url(bilder/Fotos_mit_Fuchs.png);
 }
+
 .quad190bottomrightactive {
 	background-image:url(bilder/Dokumente_mit_Fuchs.png);
 }
 
 /* hover */
-
 .quad380left:hover {
 	border: 1px solid #000000; 
 	background-color: #016767;
 
 }
+
 .quad190bottomleft:hover, .quad190bottomright:hover, .quad190topleft:hover, .quad190topright:hover {
 	border: 1px solid #000000;
 	background-color: #068283;
@@ -116,11 +128,7 @@ img {
 	min-height: 481px;
 	background-color: #068283;
 	padding-bottom: 20px;
-	}
-	
-
-
-
+}
 
 /* top border white*/
 .quadkontakt, .quadimpressum, .content, .quadcopyright {
@@ -128,6 +136,7 @@ img {
 	border-top-style: solid;
 	border-top-color: #FFFFFF;
 }
+
 .fussleiste {
 	position:relative;
 }
@@ -136,7 +145,7 @@ img {
 	display:block;
 	top:0px;
 	height: 36px;
-    width: 83px;
+	width: 83px;
 	padding-top:25px;
 	text-align:center;
 	vertical-align:middle;
@@ -147,6 +156,7 @@ img {
 	width: 83px;
 	background-color: #b04000;
 }
+
 .quadimpressum {
 	position: absolute;
 	left: 84px;
@@ -166,21 +176,22 @@ img {
 	padding-right:20px;
 	vertical-align:middle;
 	color:#FFFFFF;
-
 }
 
 img {
 	border 0px;
 }
+
 a:hover {
 	text-decoration:underline;
 }
 
-a{
+a {
 	text-decoration: none;
 	color: #002A2B;
 }
-.hrline{
+
+.hrline {
 	border-top-color:#002A2B;
 	border-top-style:dotted;
 	border-top-width:1px;
@@ -189,10 +200,10 @@ a{
 	height:0px;
 
 }
-span {
-display: inline-block;
-padding:15px;
-margin: 5px;
-vertical-align:top;
 
+span {
+	display: inline-block;
+	padding:15px;
+	margin: 5px;
+	vertical-align:top;
 }
