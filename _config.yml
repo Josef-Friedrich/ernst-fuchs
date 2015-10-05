@@ -13,4 +13,4 @@ defaults:
       path: ""
       type: "compositions"
     values:
-      layout: default
+      layout: composition

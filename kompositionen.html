@@ -7,9 +7,8 @@ title: Kompositionen
 
 <hr>
 
-Titel: {{ composition.title }} <br>
-Opus: {{ composition.opus }} <br>
-Besetzung: {{ composition.instrumentation }} <br>
-URL: {{ composition.url }} <br>
+<a href="{{ composition.url }}">{{ composition.title }}</a> <br>
+
+Besetzung: {{ composition.instrumentation }}
 
 {% endfor %}

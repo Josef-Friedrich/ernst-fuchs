@@ -1,20 +1,5 @@
-<!DOCTYPE html>
-<html>
-	
-<head>
-<meta charset="UTF-8" />
-<title>[Ernst Fuchs-Schönbach - {{ page.title }}]</title>
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-<link href="/style.css" rel="stylesheet" type="text/css" />
-<link href='https://fonts.googleapis.com/css?family=Lato:400,700,400italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-</head>
+{% include header.html %}
 
-<body>
-<div class="wrapper">
-  {% include navigation.html %}    	
-  <div class="content">{{ content }}</div>
-  {% include footer.html %}
-</div>
-</body>
+{{ content }}
 
-</html>
+{% include footer.html %}
