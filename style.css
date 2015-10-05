@@ -16,10 +16,9 @@ img {
 	box-shadow: 0px 0px 10em 1em rgba(84, 84, 84, 0.72);
 }
 
-.Navigationsleiste {
-	position:relative;
-	height:252px;
-
+nav {
+	position: relative;
+	height: 252px;
 }
 
 .quad380left, .quad380leftactive {
@@ -49,11 +48,11 @@ img {
 }
 
 .quad190topleft, .quad190topleftactive{
-	top:0px;
+	top: 0px;
 	left: 336px;
 }
 .quad190topright, .quad190toprightactive{
-	top:0px;
+	top: 0px;
 	left: 504px;
 }
 .quad190bottomleft, .quad190bottomleftactive{
@@ -112,7 +111,6 @@ img {
 .quad380left:hover {
 	border: 1px solid #000000; 
 	background-color: #016767;
-
 }
 
 .quad190bottomleft:hover, .quad190bottomright:hover, .quad190topleft:hover, .quad190topright:hover {
@@ -137,17 +135,17 @@ img {
 	border-top-color: #FFFFFF;
 }
 
-.fussleiste {
-	position:relative;
+footer {
+	position: relative;
 }
 
 .quadkontakt, .quadimpressum {
-	display:block;
-	top:0px;
+	display: block;
+	top: 0px;
 	height: 36px;
 	width: 83px;
-	padding-top:25px;
-	text-align:center;
+	padding-top: 25px;
+	text-align: center;
 	vertical-align:middle;
 	color:#FFFFFF;
 }

@@ -1,0 +1,16 @@
+---
+title: Ernst Fuchs-Schönbach - Leben und Werk
+url: "http://ernst-fuchs.tk"
+
+collections:
+  compositions:
+    output: true
+    permalink: /kompositionen/:path/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "compositions"
+    values:
+      layout: default

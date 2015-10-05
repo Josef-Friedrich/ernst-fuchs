@@ -1,0 +1,15 @@
+---
+layout: default
+title: Kompositionen
+---
+
+{% for composition in site.compositions %}
+
+<hr>
+
+Titel: {{ composition.title }} <br>
+Opus: {{ composition.opus }} <br>
+Besetzung: {{ composition.instrumentation }} <br>
+URL: {{ composition.url }} <br>
+
+{% endfor %}
