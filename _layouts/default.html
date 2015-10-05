@@ -10,28 +10,10 @@
 </head>
 
 <body>
-
 <div class="wrapper">
-    <div class="Navigationsleiste">
-        <a href="index.html" title="zur Startseite" class="quad380leftactive"></a>
-        <a href="leben.html" title="zum Leben" class="quad190topleft"></a>
-        <a href="werk.html" title="zum Werk" class="quad190topright"></a>
-        <a href="fotos.html" title="zu den Fotos" class="quad190bottomleft"></a>
-        <a href="dokumente.html" title="zu den Dokumenten" class="quad190bottomright"></a>
-        
-    </div>
-    
-  <div class="content">
-    
-	  {{ content }}
-
-  </div>
-<div class="fussleiste">
-        <a class="quadkontakt" href="kontakt.html">Kontakt</a>
-        <a class="quadimpressum" href="impressum.html">Impressum</a>
-        <a class="quadcopyright" href="mailto:josef@friedrich.rocks">&copy; 2015 Webdesign Friedrich</a>
-   </div>
-
+  {% include navigation.html %}    	
+  <div class="content">{{ content }}</div>
+  {% include footer.html %}
 </div>
 </body>
 </html>
