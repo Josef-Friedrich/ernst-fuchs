@@ -18,6 +18,10 @@ Besetzung: {{ page.instrumentation }} <br>
 <a href="http://imslp.org/wiki/File:{{ page.imslp_file }}">IMSLP-PDF</a> <br>
 {% endif %}
 
+{% if page.wikicommon_file %}
+<a href="https://commons.wikimedia.org/wiki/File:{{ page.wikicommon_file }}">Wiki-Common-PDF</a> <br>
+{% endif %}
+
 {{ content }}
 
 {% include footer.html %}
