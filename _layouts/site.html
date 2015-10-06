@@ -1,6 +1,6 @@
-<!DOCTYPE html>
-<html>
-	
+---
+layout: bare
+---
 <head>
 <meta charset="UTF-8" />
 <title>[Ernst Fuchs-Schönbach - {{ page.title }}]</title>
@@ -13,4 +13,10 @@
 <div class="wrapper">
   {% include top_nav.html %}
 
- <div class="content">
+  <div class="content">
+  {{ content }}
+  </div>
+
+  {% include bottom_nav.html %}
+</div>
+</body>

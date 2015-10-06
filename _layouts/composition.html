@@ -1,5 +1,6 @@
-{% include header.html %}
-
+---
+layout: site
+---
 <h1>{{ page.title }}</h1>
 
 {% if page.subtitle %}
@@ -23,5 +24,3 @@ Besetzung: {{ page.instrumentation }} <br>
 {% endif %}
 
 {{ content }}
-
-{% include footer.html %}
