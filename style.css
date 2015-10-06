@@ -16,7 +16,7 @@ img {
 	box-shadow: 0px 0px 10em 1em rgba(84, 84, 84, 0.72);
 }
 
-nav {
+header nav {
 	position: relative;
 	height: 252px;
 }
@@ -27,7 +27,7 @@ nav {
 	width: 334px;
 	height: 250px;
 	background-color: #002A2B;
-	border: 1px solid #002A2B; 
+	border: 1px solid #002A2B;
 	border-right-color: #FFFFFF;
 }
 
@@ -36,7 +36,7 @@ nav {
 	position: absolute;
 	width: 166px;
 	height: 124px;
-	border: 1px solid #016767; 
+	border: 1px solid #016767;
 	background-color: #016767;
 }
 
@@ -47,20 +47,20 @@ nav {
 	left: 0px;
 }
 
-.quad190topleft, .quad190topleftactive{
+.quad190topleft, .quad190topleftactive {
 	top: 0px;
 	left: 336px;
 }
-.quad190topright, .quad190toprightactive{
+.quad190topright, .quad190toprightactive {
 	top: 0px;
 	left: 504px;
 }
-.quad190bottomleft, .quad190bottomleftactive{
+.quad190bottomleft, .quad190bottomleftactive {
 	top: 126px;
 	left: 336px;
 }
 
-.quad190bottomright, .quad190bottomrightactive{
+.quad190bottomright, .quad190bottomrightactive {
 	top: 126px;
 	left: 504px;
 }
@@ -109,7 +109,7 @@ nav {
 
 /* hover */
 .quad380left:hover {
-	border: 1px solid #000000; 
+	border: 1px solid #000000;
 	background-color: #016767;
 }
 
@@ -119,7 +119,7 @@ nav {
 }
 
 /*width 672px*/
-.content {
+main {
 	position:relative;
 	padding: 20px;
 	width: 632px;
@@ -129,7 +129,7 @@ nav {
 }
 
 /* top border white*/
-.quadkontakt, .quadimpressum, .content, .quadcopyright {
+.quadkontakt, .quadimpressum, main, .quadcopyright {
 	border-top-width: 1px;
 	border-top-style: solid;
 	border-top-color: #FFFFFF;

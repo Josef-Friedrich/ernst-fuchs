@@ -11,12 +11,16 @@ layout: bare
 
 <body>
 <div class="wrapper">
+  <header>
   {% include top_nav.html %}
+  </header>
 
-  <div class="content">
+  <main>
   {{ content }}
-  </div>
+  </main>
 
+  <footer>
   {% include bottom_nav.html %}
+  </footer>
 </div>
 </body>
