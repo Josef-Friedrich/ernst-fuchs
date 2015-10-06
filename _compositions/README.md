@@ -4,6 +4,7 @@
 * opus
 * subtitle
 * instrumentation
+* file
 * imslp_project
 * imslp_file
 * wikicommon_file
