@@ -1,0 +1,7 @@
+jekyll:
+        image: jekyll/jekyll:pages
+        volumes:
+                - /var/docker/www/ernst-fuchs.tk:/srv/jekyll
+        ports:
+                - "4000:4000"
+                - "62319:80"
