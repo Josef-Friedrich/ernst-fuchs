@@ -11,6 +11,12 @@ defaults:
   -
     scope:
       path: ""
+      type: "pages"
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
       type: "compositions"
     values:
       layout: composition
