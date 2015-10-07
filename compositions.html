@@ -1,14 +1,19 @@
 ---
 title: Kompositionen
+css: compositions
 ---
 
 {% for composition in site.compositions %}
 
 <hr>
 
-<img src="/werk/{{ composition.file }}_width100.png">
+<a href="{{ composition.url }}">
+	<img class="preview" src="/werk/{{ composition.file }}_width100.png">
+</a>
 
-<a href="{{ composition.url }}">{{ composition.title }}</a> <br>
+<a href="{{ composition.url }}">
+	<h2>{{ composition.title }}</h2>
+</a>
 
 Besetzung: {{ composition.instrumentation }}
 
