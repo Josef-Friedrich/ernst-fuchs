@@ -1,0 +1,36 @@
+.paragraph1, .paragraph2, .paragraph3, .paragraph4, .paragraph5 {
+font-size:18px;
+display: inline-block;
+padding:15px;
+margin: 5px;
+height:200px;
+vertical-align:top;
+}
+
+
+/*border right*/
+
+.paragraph1, .paragraph3  {
+	border-right-color:#002A2B;
+	border-right-style:dotted;
+	border-right-width:1px;
+}
+
+.paragraph1 {
+
+width:350px;
+}
+.paragraph2 {
+width:120px;
+}
+.paragraph3 {
+width:150px;
+}
+.paragraph4 {
+width:400px;
+}
+.paragraph5 {
+height:40px;
+}
+
+

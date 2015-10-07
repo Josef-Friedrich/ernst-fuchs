@@ -1,0 +1,56 @@
+.paragraph1, .paragraph4, .paragraph6, .paragraph8, .paragraph10 {
+	border-right-color:#002A2B;
+	border-right-style:dotted;
+	border-right-width:1px;
+}
+
+
+.paragraph1 {
+width:350px;
+}
+.paragraph2 {
+width:200px;
+}
+.paragraph4 {
+width:130px;
+}
+.paragraph5 {
+width:400px;
+}
+.paragraph6 {
+width:350px;
+}
+.paragraph7 {
+width:200px;
+}
+.paragraph8 {
+width:200px;
+}
+.paragraph9 {
+width:350px;
+}
+.paragraph10 {
+width:350px;
+}
+.paragraph11 {
+width:200px;
+}
+
+
+div.bilder_biographie {
+	padding:3px;
+	font-size: 10px;
+	color: #999999;
+	text-align:center;
+	clear:both;
+}
+
+p#bilderunterschrift
+{
+	padding: 0 100px 0 100px;
+	display: block;
+}
+p {
+	font-size:15px;
+}
+
