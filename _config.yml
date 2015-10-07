@@ -5,7 +5,13 @@ url: "http://ernst-fuchs.tk"
 collections:
   compositions:
     output: true
-    permalink: /kompositionen/:path/
+    permalink: /compositions/:path/
+  documents:
+    output: true
+    permalink: /documents/:path/
+  photos:
+    output: true
+    permalink: /photos/:path/
 
 defaults:
   -
