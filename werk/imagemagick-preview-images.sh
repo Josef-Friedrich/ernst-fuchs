@@ -2,5 +2,5 @@
 
 find . -iname "*.pdf" -exec \
 	convert \
-		-resize 600 \
+		-resize 100 \
 		-flatten {}[0] {}.png \;
