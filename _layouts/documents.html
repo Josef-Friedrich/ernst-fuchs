@@ -7,10 +7,6 @@ layout: site
 Untertitel: {{ page.subtitle }} <br>
 {% endif %}
 
-{% if page.instrumentation %}
-Besetzung: {{ page.instrumentation }} <br>
-{% endif %}
-
 {% if page.imslp_project %}
 <a href="http://imslp.org/wiki/{{ page.imslp_project }}">IMSLP-Projekt-Seite</a> <br>
 {% endif %}
@@ -25,4 +21,4 @@ Besetzung: {{ page.instrumentation }} <br>
 
 {{ content }}
 
-<img src="{{ site.baseurl }}/compositions/{{ page.file }}_width600.png">
+<img src="{{ site.baseurl }}/documents/{{ page.file }}_width600.png">

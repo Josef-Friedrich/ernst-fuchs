@@ -3,20 +3,16 @@ title: Dokumente
 css: documents
 ---
 
-
-{% for composition in site.compositions %}
+{% for document in site.documents %}
 
 <hr>
 
-<a href="{{ composition.url }}">
-	<img class="preview" src="/compositions/{{ composition.file }}_width100.png">
+<a href="{{ document.url }}">
+	<img class="preview" src="{{ site.baseurl }}/documents/{{ document.file }}_width100.png">
 </a>
 
-<a href="{{ composition.url }}">
-	<h2>{{ composition.title }}</h2>
+<a href="{{ document.url }}">
+	<h2>{{ document.title }}</h2>
 </a>
-
-Besetzung: {{ composition.instrumentation }}
 
 {% endfor %}
-

@@ -27,4 +27,16 @@ defaults:
       type: "compositions"
     values:
       layout: composition
+  -
+    scope:
+      path: ""
+      type: "documents"
+    values:
+      layout: documents
+  -
+    scope:
+      path: ""
+      type: "photos"
+    values:
+      layout: photos
 ---
