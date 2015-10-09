@@ -1,33 +1,18 @@
+---
+title: Fotos
+css: photos
+---
 
+{% for photo in site.photos %}
 
-  <div class="hrline" ></div>
+<hr>
 
+<a href="{{ photo.url }}">
+  <img class="preview" src="{{ site.baseurl }}/photos/{{ photo.file }}_width100.png">
+</a>
 
-  <div class="hrline" ></div>
+<a href="{{ photo.url }}">
+  <h2>{{ photo.title }}</h2>
+</a>
 
-
-
-<div class="hrline" ></div>
-
-  <h1>Außenaufnahmen</h1>
-
-<div class="hrline" ></div>
-
-
-
-
-
-
-
-<div class="hrline" ></div>
-
-  <h1>Chöre</h1>
-
-<div class="hrline" ></div>
-
-
-
-
-
-<div class="hrline" ></div>
-
+{% endfor %}
