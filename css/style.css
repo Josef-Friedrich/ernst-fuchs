@@ -213,3 +213,8 @@ span {
 	margin: 5px;
 	vertical-align:top;
 }
+
+img.preview {
+	float: left;
+	margin-right: 10px;
+}

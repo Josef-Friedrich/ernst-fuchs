@@ -3,22 +3,19 @@ layout: site
 ---
 <h1>{{ page.title }}</h1>
 
-{% if page.subtitle %}
-Untertitel: {{ page.subtitle }} <br>
-{% endif %}
+<p>{{ page.description }}</p>
 
-{% if page.imslp_project %}
-<a href="http://imslp.org/wiki/{{ page.imslp_project }}">IMSLP-Projekt-Seite</a> <br>
-{% endif %}
-
-{% if page.imslp_file %}
-<a href="http://imslp.org/wiki/File:{{ page.imslp_file }}">IMSLP-PDF</a> <br>
-{% endif %}
+<p>
+  <a href="{{ site.baseurl }}/photos/{{ page.id }}.jpg">
+    Volle Auflösung: herunterladen
+  </a>
+</p>
 
 {% if page.wikicommon_file %}
 <a href="https://commons.wikimedia.org/wiki/File:{{ page.wikicommon_file }}">Wiki-Common-PDF</a> <br>
 {% endif %}
 
+<a href="{{ site.baseurl }}/photos/{{ page.id }}.jpg">
+  <img src="{{ site.baseurl }}/photos/{{ page.id }}_width600.jpg">
+</a>
 {{ content }}
-
-<img src="{{ site.baseurl }}/photos/{{ page.file }}_width600.png">

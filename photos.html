@@ -8,11 +8,13 @@ css: photos
 <hr>
 
 <a href="{{ photo.url }}">
-  <img class="preview" src="{{ site.baseurl }}/photos/{{ photo.file }}_width100.png">
+  <img class="preview" src="{{ site.baseurl }}/photos/{{ photo.id }}_width100.jpg">
 </a>
 
 <a href="{{ photo.url }}">
   <h2>{{ photo.title }}</h2>
 </a>
+
+{{ photo.description }}
 
 {% endfor %}

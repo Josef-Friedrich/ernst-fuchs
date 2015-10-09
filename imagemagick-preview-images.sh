@@ -1,6 +1,6 @@
 #! /bin/sh
 
-find documents -iname "*.pdf" -exec \
+find photos -iname "*.jpg" -exec \
 	convert \
-		-resize 600 \
-		-flatten {}[0] {}.png \;
+		-resize 100 \
+		-flatten {}[0] {}.jpg \;
