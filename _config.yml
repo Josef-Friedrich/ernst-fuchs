@@ -23,7 +23,7 @@ defaults:
       path: ""
       type: "compositions"
     values:
-      layout: composition
+      layout: compositions
   -
     scope:
       path: ""
