@@ -39,12 +39,12 @@ Handschrift wird Ihnen ein angenehmes Einstudieren ermöglichen.
 
 <div class="hrline" ></div>
 
-&quot;Das Internet vergisst nicht!&quot; Diese Tatsache macht sich
-dieses Projekt zu nutze. In der Hoffnung, dass online wirklich nichts
-verloren geht, beschränkt sich dieses Vorhaben jedoch nicht nur auf
-diese Internetseite. Die komplette Homepage, d. h. alle Dateien und
-damit das Gesamtwerk Ernst Fuchs-Schönbachs ist auch über andere
-Internetseite zugänglich, nämlich:
+„Das Internet vergisst nicht!“ Diese Tatsache macht sich dieses Projekt
+zu nutze. In der Hoffnung, dass online wirklich nichts verloren geht,
+beschränkt sich dieses Vorhaben jedoch nicht nur auf diese
+Internetseite. Die komplette Website, d. h. alle Dateien und damit das
+Gesamtwerk Ernst Fuchs-Schönbachs ist auch über andere Internetseiten
+zugänglich, nämlich:
 
 <ul>
   <li>deutsche Wikipedia<br />
