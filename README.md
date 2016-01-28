@@ -7,7 +7,7 @@ Site generator engine: Jekyll
 Take Jekyll into serve mode:
 
 ```
-./docker-jeklly.sh
+./jeklly.sh
 ```
 
 # Colors
