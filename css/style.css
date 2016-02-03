@@ -75,44 +75,44 @@ header nav {
 
 /* background-image active */
 .quad380left {
-	background-image:url(/bilder/Schriftzug_ohne_Fuchs.png);
+	background-image:url(/assets/Schriftzug_ohne_Fuchs.png);
 }
 
 .quad190topleft {
-	background-image:url(/bilder/Leben.png);
+	background-image:url(/assets/Leben.png);
 }
 
 .quad190topright{
-	background-image:url(/bilder/Werk.png);
+	background-image:url(/assets/Werk.png);
 }
 
 .quad190bottomleft {
-	background-image:url(/bilder/Fotos.png);
+	background-image:url(/assets/Fotos.png);
 }
 
 .quad190bottomright {
-	background-image:url(/bilder/Dokumente.png);
+	background-image:url(/assets/Dokumente.png);
 }
 
 /* background-image active */
 .quad380leftactive {
-	background-image:url(/bilder/Schriftzug.png);
+	background-image:url(/assets/Schriftzug.png);
 }
 
 .quad190topleftactive {
-	background-image:url(/bilder/Leben_mit_Fuchs.png);
+	background-image:url(/assets/Leben_mit_Fuchs.png);
 }
 
 .quad190toprightactive{
-	background-image:url(/bilder/Werk_mit_Fuchs.png);
+	background-image:url(/assets/Werk_mit_Fuchs.png);
 }
 
 .quad190bottomleftactive {
-	background-image:url(/bilder/Fotos_mit_Fuchs.png);
+	background-image:url(/assets/Fotos_mit_Fuchs.png);
 }
 
 .quad190bottomrightactive {
-	background-image:url(/bilder/Dokumente_mit_Fuchs.png);
+	background-image:url(/assets/Dokumente_mit_Fuchs.png);
 }
 
 /* hover */
@@ -197,7 +197,7 @@ a {
 	color: #F0B000;
 }
 
-.hrline {
+hr, .hrline {
 	border-top-color:#002A2B;
 	border-top-style:dotted;
 	border-top-width:1px;

@@ -1,14 +1,15 @@
-.paragraph1, .paragraph2, .paragraph3, .paragraph4, .paragraph5 {
-font-size:18px;
-display: inline-block;
-padding:15px;
-margin: 5px;
-height:200px;
-vertical-align:top;
+.paragraph1,
+.paragraph2,
+.paragraph3,
+.paragraph4,
+.paragraph5 {
+	font-size:18px;
+	display: inline-block;
+	padding:15px;
+	margin: 5px;
+	height:200px;
+	vertical-align:top;
 }
-
-
-/*border right*/
 
 .paragraph1, .paragraph3  {
 	border-right-color:#002A2B;
@@ -17,20 +18,17 @@ vertical-align:top;
 }
 
 .paragraph1 {
-
-width:350px;
+	width: 350px;
 }
 .paragraph2 {
-width:120px;
+	width: 120px;
 }
 .paragraph3 {
-width:150px;
+	width: 150px;
 }
 .paragraph4 {
-width:400px;
+	width: 380px;
 }
 .paragraph5 {
-height:40px;
+	height: 40px;
 }
-
-
