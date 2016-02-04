@@ -1,10 +1,9 @@
 ---
 title: Leben
-css: leben
+css: life
 ---
 
 <strong>Kurzbiographie, verfasst von Fuchs-Schönbachs Tochter Roswitha Niedermayer, 2008:</strong>
-
 
 <span class="paragraph1">
 Mein Vater Ernst Fuchs wurde am 18.5.1894 als 7. Kind der Familie Anton
@@ -22,8 +21,8 @@ gefallen, es siegte die Musik. Sie allein sollte ihn durchs Leben
 führen.
 </span>
 <span class="paragraph2">
-<a href="fotos/Schoenbach bei Oberried im Winter 1929.jpg">
-<img src="fotos/Schoenbach bei Oberried im Winter 1929 thumb.jpg" width="200" height="145" />
+<a href="{{ site.baseurl }}/17.html">
+<img src="{{ site.baseurl }}/photos/17_width100.jpg">
 </a>
 <br>
 Schönbach bei Drachselsried im Bayerischen Wald
@@ -44,8 +43,8 @@ singen, ein Vorteil in diesem Beruf.
 ------------------------------------------------------------------------
 
 <span class="paragraph4">
-<a href="fotos/Ernst Fuchs junior (18.3.1928 - 11.11.1946).jpg">
-<img src="fotos/Ernst Fuchs junior (18.3.1928 - 11.11.1946) thumb.jpg" alt="" width="107" height="150" />
+<a href="{{ site.baseurl }}/photos/09.html">
+<img src="{{ site.baseurl }}/photos/09_width100.jpg">
 </a>
 <br>
 Ernst Fuchs junior, gestorben 1946
@@ -68,11 +67,15 @@ Schmaus-Saal statt und wir alle waren stolz über unseren Erfolg.
 ------------------------------------------------------------------------
 
 <span class="paragraph6">
-Nach dem Krieg oder vielleicht schon etwas früher war Vater einige <a
-href="dokumente/003.pdf">Zeit stellvertretender Musiklehrer an der
-Oberschule in Cham</a>, wechselte aber dann an unsere Realschule in
-Viechtach über. Laut <a href="dokumente/008.png7">hier vorliegenden
-Unterlagen</a> arbeitete er dort 6 Jahre. Aber vor- und nachher
+Nach dem Krieg oder vielleicht schon etwas früher war Vater einige 
+<a href="{{ site.baseurl }}/archives/003.html">
+Zeit stellvertretender Musiklehrer an der Oberschule in Cham
+</a>, wechselte aber dann an unsere Realschule in
+Viechtach über. Laut 
+<a href="{{ site.baseurl }}/archives/008.html">
+hier vorliegenden Unterlagen
+</a> 
+arbeitete er dort 6 Jahre. Aber vor- und nachher
 unterrichtete er  daheim Schüler an verschiedenen Instrumenten und immer
 wenn es nur möglich war, saß er am Flügel und komponierte. Mit einigen
 seiner Werke nahm er sogar Verbindung zum Bayerischen Rundfunk auf — mit
@@ -81,14 +84,19 @@ alle hörten hier mit. Einmal gab sogar der Domorganist von Passau einen
 Orgelkonzertabend, nur mit Vaters Werken, auch das wurde über Rundfunk
 gesendet.
 </span>
-<span class="paragraph7"><a href="fotos/Ernst Fuchs-Schoenbach an der Orgel (1894 - 1975).jpg"><img src="fotos/Ernst Fuchs-Schoenbach an der Orgel (1894 - 1975) thumb.jpg" alt="" width="200" height="142" /></a><br>
-Ernst Fuchs-Schönbach an der Orgel</span>
+<span class="paragraph7">
+<a href="{{ site.baseurl }}/photos/02.html">
+<img src="{{ site.baseurl }}/photos/02_width100.jpg">
+</a>
+<br>
+Ernst Fuchs-Schönbach an der Orgel
+</span>
 
 ------------------------------------------------------------------------
 
 <span class="paragraph8">
-<a title="Der Flügel von Ernst Fuchs-Schönbach, noch heute im Besitz seiner Nachfahren"href="fotos/Fluegel von Ernst Fuchs-Schoenbach.jpg">
-<img src="fotos/Fluegel von Ernst Fuchs-Schoenbach thumb.jpg" alt="" width="200" height="140" />
+<a href="{{ site.baseurl }}/photos/24.html">
+<img src="{{ site.baseurl }}/photos/24_width100.jpg">
 </a>
 <br>
 Der Flügel von Ernst Fuchs-Schönbach
@@ -101,9 +109,11 @@ er solle, solange sie lebe, immer in ihrer Nahe bleiben, was dann auch
 geschah.
 <br>
 1972 — Vater befand sich schon einige Zeit im Ruhestand erhielt er vom
-damaligen Bischof von Regensburg eine <a
-href="dokumente/001.png">Dankesurkunde</a> für  sein Wirken als
-Chorleiter und Organist über 54 Jahre lang.
+damaligen Bischof von Regensburg eine 
+<a href="{{ site.baseurl }}/archives/001.html">
+Dankesurkunde
+</a> 
+für sein Wirken alsChorleiter und Organist über 54 Jahre lang.
 </span>
 
 ------------------------------------------------------------------------
@@ -118,10 +128,9 @@ Sommer 1975 als Vater den Taktstock für immer beiseite legte und ich
 nicht bei ihm sein konnte, weil ich gerade Urlaub in Meran machte. So
 wünsche ich ihm, er möge ruhen in himmlischer Glückseligkeit.
 </span>
-
 <span class="paragraph11">
-<a href="fotos/Kirchenchor von Viechtach.jpg">
-<img src="fotos/Kirchenchor von Viechtach thumb.jpg" alt="" width="200" height="128" />
+<a href="{{ site.baseurl }}/photos/20.html">
+<img src="{{ site.baseurl }}/photos/20_width100.jpg">
 </a>
 <br>
 Viechtacher Kirchenchor 2. von rechts Ernst Fuchs-Schönbach
