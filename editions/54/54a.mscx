@@ -18,8 +18,9 @@
         <valign>top</valign>
         <offsetType>absolute</offsetType>
         <name>Title</name>
-        <family>Times New Roman</family>
-        <size>9.2</size>
+        <family>FreeSerif</family>
+        <size>16</size>
+        <bold>1</bold>
         </TextStyle>
       <TextStyle>
         <halign>center</halign>
@@ -379,16 +380,16 @@
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
       <page-layout>
-        <page-height>1683.58</page-height>
-        <page-width>1190.96</page-width>
+        <page-height>1683.55</page-height>
+        <page-width>1190.95</page-width>
         <page-margins type="both">
-          <left-margin>71.9556</left-margin>
-          <right-margin>71.9556</right-margin>
-          <top-margin>90.4057</top-margin>
-          <bottom-margin>90.4057</bottom-margin>
+          <left-margin>68.0315</left-margin>
+          <right-margin>68.0315</right-margin>
+          <top-margin>56.6929</top-margin>
+          <bottom-margin>56.6929</bottom-margin>
           </page-margins>
         </page-layout>
-      <Spatium>1.6272</Spatium>
+      <Spatium>1.627</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -419,16 +420,6 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
         <System>
           </System>
         </Page>
@@ -441,10 +432,10 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
+        </Page>
+      <Page>
         <System>
           </System>
         <System>
@@ -473,24 +464,6 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
@@ -541,18 +514,6 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
         <System>
           </System>
         <System>
@@ -569,6 +530,8 @@
           </System>
         </Page>
       <Page>
+        <System>
+          </System>
         <System>
           </System>
         <System>
@@ -601,6 +564,42 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
         <System>
           </System>
         </Page>
@@ -649,33 +648,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>31.9</height>
+        <height>14.5024</height>
         <Text>
           <style>Composer</style>
-          <xoffset>0</xoffset>
-          <yoffset>-9.27504</yoffset>
-          <text><b><font size="10.8"/>Ernst Fuchs-Schönbach
-(1894 - 1973)</b></text>
+          <text>Ernst Fuchs-Schönbach
+(1894 - 1973)</text>
           </Text>
         <Text>
-          <style>Lyricist</style>
-          <text><font size="16.2"/>Feierlich bewegt</text>
-          </Text>
-        <Text>
-          <style>Lyricist</style>
-          <xoffset>0</xoffset>
-          <yoffset>-9.27504</yoffset>
+          <style>Subtitle</style>
           <text><font size="16.2"></font><i>I.</i></text>
           </Text>
         <Text>
           <style>Title</style>
-          <text>Lobe den Herren</text>
-          </Text>
-        <Text>
-          <style>Subtitle</style>
-          <xoffset>0</xoffset>
-          <yoffset>21.8045</yoffset>
-          <text><font size="16.2"/>Choralpartita für Orgel op. 54 a</text>
+          <text>Choralpartita für Orgel op. 54 a „Lobe den Herren“</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -698,6 +683,11 @@
           <xoffset>0</xoffset>
           <yoffset>8.8</yoffset>
           </Dynamic>
+        <Tempo>
+          <tempo>2</tempo>
+          <followText>1</followText>
+          <text>Feierlich bewegt</text>
+          </Tempo>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -1683,6 +1673,9 @@
         <LayoutBreak>
           <subtype>section</subtype>
           </LayoutBreak>
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Chord>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
@@ -1710,10 +1703,10 @@
           </Chord>
         </Measure>
       <VBox>
-        <height>10</height>
+        <height>8.54375</height>
         <Text>
-          <style>Lyricist</style>
-          <text><font size="16.2"></font><i>II.</i></text>
+          <style>Title</style>
+          <text>II.</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -2790,16 +2783,8 @@
       <VBox>
         <height>7.9</height>
         <Text>
-          <style>Lyricist</style>
-          <xoffset>0</xoffset>
-          <yoffset>-9.76307</yoffset>
-          <size>10.25</size>
-          <text><font size="18"></font><i>III.</i></text>
-          </Text>
-        <Text>
-          <style>Lyricist</style>
-          <size>10.25</size>
-          <text><font size="12"></font>II.</text>
+          <style>Title</style>
+          <text>III.</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -3822,16 +3807,8 @@
       <VBox>
         <height>8.3</height>
         <Text>
-          <style>Lyricist</style>
-          <xoffset>0</xoffset>
-          <yoffset>-9.43776</yoffset>
-          <text><font size="16.2"></font><i>IV.</i></text>
-          </Text>
-        <Text>
           <style>Title</style>
-          <xoffset>0</xoffset>
-          <yoffset>9.43776</yoffset>
-          <text><font size="10.8"></font>I</text>
+          <text>IV.</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -5178,14 +5155,8 @@
       <VBox>
         <height>7.7</height>
         <Text>
-          <style>Lyricist</style>
-          <xoffset>0</xoffset>
-          <yoffset>-8.46144</yoffset>
-          <text><font size="16.2"></font><i>V.</i></text>
-          </Text>
-        <Text>
-          <style>Lyricist</style>
-          <text><font size="10.8"></font>I</text>
+          <style>Title</style>
+          <text>V.</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -6511,8 +6482,8 @@
       <VBox>
         <height>10</height>
         <Text>
-          <style>Lyricist</style>
-          <text><font size="16.2"></font><i>VI.</i></text>
+          <style>Title</style>
+          <text>VI.</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -8398,8 +8369,8 @@
       <VBox>
         <height>10</height>
         <Text>
-          <style>Lyricist</style>
-          <text><font size="16.2"></font><i>VII.</i></text>
+          <style>Title</style>
+          <text>VII.</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -9899,8 +9870,8 @@
       <VBox>
         <height>10</height>
         <Text>
-          <style>Lyricist</style>
-          <text><font size="16.2"></font><i>VIII.</i></text>
+          <style>Title</style>
+          <text>VIII.</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -10880,9 +10851,6 @@
           </Rest>
         </Measure>
       <Measure number="11">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
@@ -11086,9 +11054,6 @@
           </Chord>
         </Measure>
       <Measure number="14">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -11558,9 +11523,6 @@
           </Chord>
         </Measure>
       <Measure number="17">
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -12193,8 +12155,8 @@
       <VBox>
         <height>10</height>
         <Text>
-          <style>Lyricist</style>
-          <text><font size="16.2"></font><i>IX.</i></text>
+          <style>Title</style>
+          <text>IX.</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -13001,8 +12963,8 @@
       <VBox>
         <height>10</height>
         <Text>
-          <style>Lyricist</style>
-          <text><font size="16.2"></font><i>X.</i></text>
+          <style>Title</style>
+          <text>X.</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -15811,8 +15773,8 @@
       <VBox>
         <height>10</height>
         <Text>
-          <style>Lyricist</style>
-          <text><font size="16.2"></font><i>XI.</i></text>
+          <style>Title</style>
+          <text>XI.</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -17796,14 +17758,8 @@
       <VBox>
         <height>10.2</height>
         <Text>
-          <style>Lyricist</style>
-          <xoffset>0</xoffset>
-          <yoffset>-12.5294</yoffset>
+          <style>Title</style>
           <text><font size="16.2"></font><i>XII.</i></text>
-          </Text>
-        <Text>
-          <style>Lyricist</style>
-          <text><font size="16.2"></font>Maestoso</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -17826,6 +17782,11 @@
           <xoffset>0</xoffset>
           <yoffset>8.6</yoffset>
           </Dynamic>
+        <Tempo>
+          <tempo>2</tempo>
+          <followText>1</followText>
+          <text>Maestoso</text>
+          </Tempo>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
