@@ -11,13 +11,13 @@ Orgelstücke sind unter seinen zahlreichen Kompositionen.
 </span>
 <!-- -->
 <span class="paragraph2">
-<img src="{{ site.baseurl }}assets/index_fuchs-1.jpg" width="154" height="200" />
+<img src="{{ site.baseurl }}/assets/index_fuchs-1.jpg" width="154" height="200" />
 </span>
 
 ------------------------------------------------------------------------
 
 <span class="paragraph3">
-<img src="{{ site.baseurl }}assets/index_fuchs-2.jpg" width="128" height="200" />
+<img src="{{ site.baseurl }}/assets/index_fuchs-2.jpg" width="128" height="200" />
 </span>
 <span class="paragraph4">
 Es ist der Wunsch seiner Nachfahren, besonders seiner Tochter *Roswitha
