@@ -3,34 +3,27 @@ title: Startseite
 css: index
 ---
 
-<span class="paragraph1">
 Mit dieser Internetpräsenz soll an den Komponisten *Ernst Fuchs-Schönbach*
 erinnert werden. Der Kirchenmusiker aus dem niederbayerischen Viechtach
 hinterließ ein beachtliches Werk. Viele Klavierlieder und etliche
 Orgelstücke sind unter seinen zahlreichen Kompositionen.
-</span>
-<!-- -->
-<span class="paragraph2">
-<img src="{{ site.baseurl }}/assets/index_fuchs-1.jpg" width="154" height="200" />
-</span>
+
+<img src="{{ site.baseurl }}/assets/index_fuchs-1.jpg">
 
 ------------------------------------------------------------------------
 
-<span class="paragraph3">
-<img src="{{ site.baseurl }}/assets/index_fuchs-2.jpg" width="128" height="200" />
-</span>
-<span class="paragraph4">
+<img src="{{ site.baseurl }}/assets/index_fuchs-2.jpg">
+
 Es ist der Wunsch seiner Nachfahren, besonders seiner Tochter *Roswitha
 Niedermayer*, dass seine Kompositionen nicht in Vergessenheit geraten.
 Deshalb warten alle noch auffindbaren Werke auf dieser Internetseite auf
 MusikerInnen, die ihnen neues Leben einhauchen. Laden Sie seine Werke
 auf ihren Computer und drucken Sie sie aus! Seine gut leserliche
 Handschrift wird Ihnen ein angenehmes Einstudieren ermöglichen.
-</span>
 
 ------------------------------------------------------------------------
 
-<p><span class="paragraph5">Josef Friedrich, Ruhmannsfelden im Mai 2009</span> </p>
+Josef Friedrich, Ruhmannsfelden im Mai 2009
 
 ------------------------------------------------------------------------
 
