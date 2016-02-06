@@ -4,16 +4,16 @@ css: index
 ---
 
 <div class="row">
-<div class="4u">
+<div class="4u 8u(tablet) 12u(mobile)">
 Mit dieser Internetpräsenz soll an den Komponisten <i>Ernst Fuchs-Schönbach</i>
 erinnert werden. Der Kirchenmusiker aus dem niederbayerischen Viechtach
 hinterließ ein beachtliches Werk. Viele Klavierlieder und etliche
 Orgelstücke sind unter seinen zahlreichen Kompositionen.
 </div>
-<div class="2u">
+<div class="2u 4u(tablet) 8u(mobile)">
 <img class="image" src="{{ site.baseurl }}/assets/index_fuchs-1.jpg">
 </div>
-<div class="4u">
+<div class="4u 8u(tablet) 12u(mobile)">
 Es ist der Wunsch seiner Nachfahren, besonders seiner Tochter <i>Roswitha
 Niedermayer</i>, dass seine Kompositionen nicht in Vergessenheit geraten.
 Deshalb warten alle noch auffindbaren Werke auf dieser Internetseite auf
@@ -21,7 +21,7 @@ MusikerInnen, die ihnen neues Leben einhauchen. Laden Sie seine Werke
 auf ihren Computer und drucken Sie sie aus! Seine gut leserliche
 Handschrift wird Ihnen ein angenehmes Einstudieren ermöglichen.
 </div>
-<div class="2u">
+<div class="2u 4u(tablet) 8u(mobile)">
 <img class="image" src="{{ site.baseurl }}/assets/index_fuchs-2.jpg">
 </div>
 </div>
