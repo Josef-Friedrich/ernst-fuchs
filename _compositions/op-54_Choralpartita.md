@@ -3,7 +3,7 @@ title: Lobe den Herren – Maria zu lieben – Choralpartita op. 54
 opus: 54
 instrumentation: für Orgel
 imslp_project: Lobe_den_Herren_-_Maria_zu_lieben_-_Choralpartita,_Op.54_(Fuchs-Sch%C3%B6nbach,_Ernst)
-imslp_file:
+imslp_file: PMLP73484-Ernst_Fuchs-Schoenbach_-_op._54_Choralpartita.pdf
 wikicommon_file: Ernst_Fuchs-Schoenbach_-_op._54_Choralpartita.pdf
 short: op-54_Choralpartita
 edited: true
