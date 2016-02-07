@@ -1,0 +1,21 @@
+---
+title: Editionen
+---
+
+{% for composition in site.compositions %}
+{% if composition.edited %}
+<hr>
+
+<a href="{{ site.baseurl }}{{ composition.url }}">
+	<h2>{{ composition.title }}</h2>
+</a>
+
+<a href="{{ site.baseurl }}{{ composition.url }}">
+	<img src="{{ site.baseurl }}/compositions/{{ composition.short }}/preview_width100.png">
+</a>
+
+Besetzung: {{ composition.instrumentation }}
+
+{% endif %}
+{% endfor %}
+
