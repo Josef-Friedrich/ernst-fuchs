@@ -1,6 +1,5 @@
 ---
 title: Startseite
-css: index
 ---
 
 <div class="row">

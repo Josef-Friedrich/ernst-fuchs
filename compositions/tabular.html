@@ -1,0 +1,29 @@
+---
+title: Editionen
+---
+
+<table>
+
+<th>
+  <td>
+    Titel
+  </td>
+  <td>
+    Opus
+  </td>
+</th>
+
+{% for composition in site.compositions %}
+
+<tr>
+  <td>
+    <a href="{{ site.baseurl }}{{ composition.url }}">{{ composition.title }}</a>
+  </td>
+  <td>
+    {{ composition.opus }}
+  </td>
+</tr>
+
+{% endfor %}
+<table>
+
