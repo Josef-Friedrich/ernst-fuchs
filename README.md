@@ -10,11 +10,4 @@ Take Jekyll into serve mode:
 ./jeklly.sh
 ```
 
-# Colors
-
-* braun: B04000
-* orange: F0B000
-* dunkelgrün: 002A2B
-* grün: 068283
-* hellgrün: 016767
 
