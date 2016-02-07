@@ -5,7 +5,7 @@ instrumentation: für eine mittlere Singstimme und Klavier
 imslp_project: 8_Lieder_nach_Gedichten_von_Agnes_Miegel,_Op.33_(Fuchs-Sch%C3%B6nbach,_Ernst)
 imslp_file:
 wikicommon_file: Ernst_Fuchs-Schoenbach_-_op._33_Acht_Lieder_nach_Gedichten_von_Agnes_Miegel.pdf
-file: op-30_Gesaenge-der-Liebe
+short: op-30_Gesaenge-der-Liebe
 ---
 Die zwei Lieder 
 [Traum I](http://youtu.be/MYFrCfCKAeA) und 

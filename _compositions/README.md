@@ -4,7 +4,7 @@
 * opus
 * subtitle
 * instrumentation
-* file
+* short (op-OPUS_Title-with-dashes_Nr-X_KEY)
 * imslp_project
 * imslp_file
 * wikicommon_file
