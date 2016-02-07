@@ -6,6 +6,7 @@ imslp_project: Lobe_den_Herren_-_Maria_zu_lieben_-_Choralpartita,_Op.54_(Fuchs-S
 imslp_file:
 wikicommon_file: Ernst_Fuchs-Schoenbach_-_op._54_Choralpartita.pdf
 short: op-54_Choralpartita
+edited: true
 ---
 
 Die Choralpartia Nr. 2 wurde in einem
@@ -13,3 +14,17 @@ Die Choralpartia Nr. 2 wurde in einem
 
 1. Lobe den Herren
 2. Maria zu lieben
+
+edition_pollwein_54a_01.musx
+edition_pollwein_54a_02.musx
+edition_pollwein_54a_03.musx
+edition_pollwein_54a_04.musx
+edition_pollwein_54a_05.musx
+edition_pollwein_54a_06.musx
+edition_pollwein_54a_07.musx
+edition_pollwein_54a_08.musx
+edition_pollwein_54a_09.musx
+edition_pollwein_54a_10.musx
+edition_pollwein_54a_11.musx
+edition_pollwein_54a_12.musx
+

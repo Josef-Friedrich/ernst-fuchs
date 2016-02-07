@@ -1,3 +1,4 @@
 _site/*
 *~
 *.mscx,
+*.DS_Store

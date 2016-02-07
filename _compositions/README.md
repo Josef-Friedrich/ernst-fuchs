@@ -9,3 +9,4 @@
 * imslp_file
 * wikicommon_file
 * lost: true|false
+* edited: true|false
