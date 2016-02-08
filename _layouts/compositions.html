@@ -1,14 +1,7 @@
 ---
 layout: site
 ---
-<h1>{{ page.title }}</h1>
-
-
-<ol class="default">
-{% for item in page.pieces %}
-  <li>{{ item.title }}</li>
-{% endfor %}
-<ol>
+<h2>{{ page.title }}</h2>
 
 <div class="row">
 <div class="6u 8u(tablet) 12u(mobile)">
@@ -25,6 +18,20 @@ Besetzung: {{ page.instrumentation }} <br>
 {% include imslp_file.html link=page.imslp_file text="IMSLP-PDF" suffix="<br>" %}
 
 {% include wikicommon_file.html link=page.wikicommon_file text="Wiki-Common-PDF" suffix="<br>" %}
+
+{% if page.pieces %}
+<h3>Die einzelnen Sätze</h3>
+
+<ol class="default">
+{% for item in page.pieces %}
+  <li>
+    {{ item.title }}
+    {% if item.key %}[{{ item.key }}]{% endif %}
+    {% if item.lyricist %}({{ item.lyricist }}){% endif %}
+  </li>
+{% endfor %}
+<ol>
+{% endif %}
 
 {{ content }}
 
