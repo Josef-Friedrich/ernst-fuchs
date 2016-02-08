@@ -7,7 +7,7 @@ imslp_file: PMLP73484-Ernst_Fuchs-Schoenbach_-_op._54_Choralpartita.pdf
 wikicommon_file: Ernst_Fuchs-Schoenbach_-_op._54_Choralpartita.pdf
 short: op-54_Choralpartita
 edited: true
-musicxml
+musicxml: true
 ---
 
 Die Choralpartia Nr. 2 wurde in einem
