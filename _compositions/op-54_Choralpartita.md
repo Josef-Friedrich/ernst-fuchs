@@ -8,13 +8,13 @@ wikicommon_file: Ernst_Fuchs-Schoenbach_-_op._54_Choralpartita.pdf
 short: op-54_Choralpartita
 edited: true
 musicxml: true
+pieces:
+  - title: Lobe den Herren
+  - title: Maria zu lieben
 ---
 
 Die Choralpartia Nr. 2 wurde in einem
 [Gottesdienst gespielt und aufgenommen](http://youtu.be/Rcxf7c6WT-A).
-
-1. Lobe den Herren
-2. Maria zu lieben
 
 edition_pollwein_54a_01.musx
 edition_pollwein_54a_02.musx
