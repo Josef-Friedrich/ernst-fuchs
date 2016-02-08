@@ -11,17 +11,11 @@ Untertitel: {{ page.subtitle }} <br>
 Besetzung: {{ page.instrumentation }} <br>
 {% endif %}
 
-{% if page.imslp_project %}
-<a href="http://imslp.org/wiki/{{ page.imslp_project }}">IMSLP-Projekt-Seite</a> <br>
-{% endif %}
+{% include imslp_project.html link=page.imslp_project text="IMSLP-Projekt-Seite" suffix="<br>" %}
 
-{% if page.imslp_file %}
-<a href="http://imslp.org/wiki/File:{{ page.imslp_file }}">IMSLP-PDF</a> <br>
-{% endif %}
+{% include imslp_file.html link=page.imslp_file text="IMSLP-PDF" suffix="<br>" %}
 
-{% if page.wikicommon_file %}
-<a href="https://commons.wikimedia.org/wiki/File:{{ page.wikicommon_file }}">Wiki-Common-PDF</a> <br>
-{% endif %}
+{% include wikicommon_file.html link=page.wikicommon_file text="Wiki-Common-PDF" suffix="<br>" %}
 
 {{ content }}
 

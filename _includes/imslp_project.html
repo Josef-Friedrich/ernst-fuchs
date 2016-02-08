@@ -1,0 +1,5 @@
+{% if include.link %}
+  {{ include.prefix }}
+  <a href="http://imslp.org/wiki/{{ include.link }}">{{ include.text }}</a>
+  {{ include.suffix }}
+{% endif %}

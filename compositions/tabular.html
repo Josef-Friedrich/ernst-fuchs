@@ -11,6 +11,15 @@ title: Editionen
   <th>
     Opus
   </th>
+  <th>
+    IMSLP Projekt
+  </th>
+  <th>
+    IMSLP Datei
+  </th>
+  <th>
+    Wikicommon Datei
+  </th>
 </tr>
 
 {% for composition in site.compositions %}
@@ -21,6 +30,15 @@ title: Editionen
   </td>
   <td>
     {{ composition.opus }}
+  </td>
+  <td>
+    {% include imslp_project.html link=composition.imslp_project text="Link" %}
+  </td>
+  <td>
+    {% include imslp_file.html link=composition.imslp_file text="Link" %}
+  </td>
+  <td>
+    {% include wikicommon_file.html link=composition.wikicommon_file text="Link" %}
   </td>
 </tr>
 
