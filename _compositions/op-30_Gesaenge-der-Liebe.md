@@ -3,7 +3,7 @@ title: Acht Lieder nach Gedichten von Agnes Miegel op. 33
 opus: 33
 instrumentation: für eine mittlere Singstimme und Klavier
 imslp_project: 8_Lieder_nach_Gedichten_von_Agnes_Miegel,_Op.33_(Fuchs-Sch%C3%B6nbach,_Ernst)
-imslp_file:
+imslp_file: PMLP73448-Ernst_Fuchs-Schoenbach_-_op._34_Lieder_der_Sehnsucht.pdf
 wikicommon_file: Ernst_Fuchs-Schoenbach_-_op._33_Acht_Lieder_nach_Gedichten_von_Agnes_Miegel.pdf
 short: op-30_Gesaenge-der-Liebe
 ---
