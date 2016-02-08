@@ -10,3 +10,4 @@
 * wikicommon_file
 * lost: true|false
 * edited: true|false
+* musicxml: true|false

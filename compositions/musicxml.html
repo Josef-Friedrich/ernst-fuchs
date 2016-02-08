@@ -1,0 +1,31 @@
+---
+title: MusicXML
+---
+
+<table>
+
+<tr>
+  <th>
+    Titel
+  </th>
+  <th>
+    MusicXML
+  </th>
+</tr>
+
+{% for composition in site.compositions %}
+{% if composition.musicxml %}
+
+<tr>
+  <td>
+    <a href="{{ site.baseurl }}{{ composition.url }}">{{ composition.title }}</a>
+  </td>
+  <td>
+    <a href="{{ site.baseurl }}/compositions/{{ composition.short }}/musicxml.mscx">MusicXML</A>
+  </td>
+</tr>
+
+{% endif %}
+{% endfor %}
+
+<table>
