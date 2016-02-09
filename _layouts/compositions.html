@@ -1,16 +1,20 @@
 ---
 layout: site
 ---
+
+{% capture path %}{{ site.baseurl }}/compositions/{{ page.short }}{% endcapture %}
+
 <h2>{{ page.title }}</h2>
 
 <div class="row">
 <div class="6u 8u(tablet) 12u(mobile)">
+
 {% if page.subtitle %}
-Untertitel: {{ page.subtitle }} <br>
+  <strong>Untertitel:</strong> {{ page.subtitle }} <br>
 {% endif %}
 
 {% if page.instrumentation %}
-Besetzung: {{ page.instrumentation }} <br>
+  <strong>Besetzung:</strong> {{ page.instrumentation }} <br>
 {% endif %}
 
 {% include imslp_project.html link=page.imslp_project text="IMSLP-Projekt-Seite" suffix="<br>" %}
@@ -44,12 +48,26 @@ Besetzung: {{ page.instrumentation }} <br>
   {% endfor %}
 {% endif %}
 
+<!-- edition_score -->
+
+{% if page.edition %}
+  <h2>Editionen</h2>
+  {% for item in page.edition %}
+    {% if item.score %}
+      <a href="{{ path }}/{{ item.score }}">{{ item.score }}</a>
+    {% endif %}
+    {% if item.pdf %}
+      <a href="{{ path }}/{{ item.pdf }}">{{ item.pdf }}</a>
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
 {{ content }}
 
 </div>
 <div class="6u 4u(tablet) 12u(mobile)">
-  <a href="{{ site.baseurl }}/compositions/{{ page.short }}/manuscript.pdf">
-    <img class="score" src="{{ site.baseurl }}/compositions/{{ page.short }}/preview_width600.png">
+  <a href="{{ path }}/manuscript.pdf">
+    <img class="score" src="{{ path }}/preview_width600.png">
   </a>
 </div>
 </div>

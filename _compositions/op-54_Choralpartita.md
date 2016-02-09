@@ -18,21 +18,17 @@ youtube:
   - url: Rcxf7c6WT-A
     artist: Herbert Weß
     title: Maria zu lieben
+edition:
+  - score: edition_pollwein_54a_01.musx
+  - score: edition_pollwein_54a_02.musx
+  - score: edition_pollwein_54a_03.musx
+  - score: edition_pollwein_54a_04.musx
+  - score: edition_pollwein_54a_05.musx
+  - score: edition_pollwein_54a_06.musx
+  - score: edition_pollwein_54a_07.musx
+  - score: edition_pollwein_54a_08.musx
+  - score: edition_pollwein_54a_09.musx
+  - score: edition_pollwein_54a_10.musx
+  - score: edition_pollwein_54a_11.musx
+  - score: edition_pollwein_54a_12.musx
 ---
-
-Die Choralpartia Nr. 2 wurde in einem
-[Gottesdienst gespielt und aufgenommen](http://youtu.be/Rcxf7c6WT-A).
-
-edition_pollwein_54a_01.musx
-edition_pollwein_54a_02.musx
-edition_pollwein_54a_03.musx
-edition_pollwein_54a_04.musx
-edition_pollwein_54a_05.musx
-edition_pollwein_54a_06.musx
-edition_pollwein_54a_07.musx
-edition_pollwein_54a_08.musx
-edition_pollwein_54a_09.musx
-edition_pollwein_54a_10.musx
-edition_pollwein_54a_11.musx
-edition_pollwein_54a_12.musx
-

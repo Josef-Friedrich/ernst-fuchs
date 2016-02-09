@@ -10,9 +10,12 @@ imslp_file:
 short: Storm-Lieder_nach-Gedan
 edited: true
 musicxml: true
+edition:
+  - score: edition_gedan_2016_hoch.mus
+    pdf: edition_gedan_2016_hoch.pdf
+  - score: edition_gedan_2016_mittel.mus
+    pdf: edition_gedan_2016_mittel.pdf
 ---
 
-edition_gedan_2016_hoch.mus
-edition_gedan_2016_hoch.pdf
-edition_gedan_2016_mittel.mus
-edition_gedan_2016_mittel.pdf
+
+  
