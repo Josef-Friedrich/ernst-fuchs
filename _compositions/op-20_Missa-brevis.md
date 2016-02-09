@@ -21,12 +21,12 @@ pieces:
     key: F-Dur
   - title: Agnus Dei
     key: a-Moll
-edition_score:
-  - file: edition_pollwein_1_Kyrie.musx
-  - file: edition_pollwein_2_Gloria.musx
-  - file: edition_pollwein_3_Sanctus.musx
-  - file: edition_pollwein_4_Benedictus.musx
-  - file: edition_pollwein_5_Agnus-Dei.musx
+edition:
+  - score: edition_pollwein_1_Kyrie.musx
+  - score: edition_pollwein_2_Gloria.musx
+  - score: edition_pollwein_3_Sanctus.musx
+  - score: edition_pollwein_4_Benedictus.musx
+  - score: edition_pollwein_5_Agnus-Dei.musx
 ---
 
 

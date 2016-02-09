@@ -28,7 +28,10 @@ pieces:
     key: F-Dur
   - title: Libera
     key: d-Moll
+edition:
+  - score: edition_pollwein_score.musx
+  - score: edition_pollwein_parts.musx
 ---
 
-edition_pollwein_parts.musx
-edition_pollwein_score.musx
+
+
