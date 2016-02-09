@@ -15,15 +15,16 @@ pieces:
     key: c-Moll
   - title: Allegretto
     key: C-Dur
+edition:
+  - score: edition_pollwein_2011_1_parts.musx
+  - score: edition_pollwein_2011_1_score.musx
+  - score: edition_pollwein_2011_2_parts.musx
+  - score: edition_pollwein_2011_2_score.musx
+  - score: edition_pollwein_2011_3_parts.musx
+  - score: edition_pollwein_2011_3_score.musx
+  - score: edition_pollwein_2011_4_parts.musx
+  - score: edition_pollwein_2011_4_score.musx
+  - score: edition_pollwein_2011_parts.pdf
+  - score: edition_pollwein_2011_score.pdf
 ---
 
-edition_pollwein_2011_1_parts.musx
-edition_pollwein_2011_1_score.musx
-edition_pollwein_2011_2_parts.musx
-edition_pollwein_2011_2_score.musx
-edition_pollwein_2011_3_parts.musx
-edition_pollwein_2011_3_score.musx
-edition_pollwein_2011_4_parts.musx
-edition_pollwein_2011_4_score.musx
-edition_pollwein_2011_parts.pdf
-edition_pollwein_2011_score.pdf
