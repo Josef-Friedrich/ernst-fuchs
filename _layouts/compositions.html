@@ -22,6 +22,8 @@ Besetzung: {{ page.instrumentation }} <br>
 {% if page.pieces %}
 <h3>Die einzelnen Sätze</h3>
 
+<!-- pieces -->
+
 <ol class="default">
 {% for item in page.pieces %}
   <li>
@@ -31,6 +33,15 @@ Besetzung: {{ page.instrumentation }} <br>
   </li>
 {% endfor %}
 <ol>
+{% endif %}
+
+<!-- youtube -->
+
+{% if page.youtube %}
+  {% for item in page.youtube %}
+    <h3>{{ item.title }} ({{ item.artist }})</h3>
+    <iframe width="480" height="360" src="https://www.youtube.com/embed/{{ item.url }}" frameborder="0" allowfullscreen> </iframe>
+  {% endfor %}
 {% endif %}
 
 {{ content }}

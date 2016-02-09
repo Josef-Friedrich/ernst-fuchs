@@ -4,9 +4,7 @@ opus: 7
 instrumentation: für zwei einstimmige Chöre und Orgel
 lost: true
 short: op-07_Ave-Maria
----
-
-<ol>
+pieces:
   - title: Ave Maria [F-Dur]
   - title: Ave Maria [A-Dur]
 ---

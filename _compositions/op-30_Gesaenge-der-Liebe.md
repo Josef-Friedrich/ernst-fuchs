@@ -33,6 +33,13 @@ pieces:
   - title: Deine Hände
     key: g-Moll
     created: 7.7.1944
+youtube:
+  - url: MYFrCfCKAeA
+    title: Traum I
+    artist: Isabelle Kusari
+  - url: ssvV6Le0eG4
+    title: Traum II
+    artist: Isabelle Kusari
 ---
 Die zwei Lieder 
 [Traum I](http://youtu.be/MYFrCfCKAeA) und 

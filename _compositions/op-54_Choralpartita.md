@@ -11,6 +11,13 @@ musicxml: true
 pieces:
   - title: Lobe den Herren
   - title: Maria zu lieben
+youtube:
+  - url: DbaaHblrDr0
+    artist: Michael Pollwein
+    title: Lobe den Herren
+  - url: Rcxf7c6WT-A
+    artist: Herbert Weß
+    title: Maria zu lieben
 ---
 
 Die Choralpartia Nr. 2 wurde in einem

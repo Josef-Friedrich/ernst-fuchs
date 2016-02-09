@@ -27,4 +27,3 @@ edition_pollwein_2011_4_parts.musx
 edition_pollwein_2011_4_score.musx
 edition_pollwein_2011_parts.pdf
 edition_pollwein_2011_score.pdf
-musicxml.mscx
