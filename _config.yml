@@ -3,12 +3,6 @@ title: Ernst Fuchs-Schönbach - Leben und Werk
 url: "http://ernst-fuchs.tk"
 baseurl: /ernst-fuchs
 
-# Conversion
-markdown: redcarpet
-highlighter: pygments
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
-
 collections:
   compositions:
     output: true
