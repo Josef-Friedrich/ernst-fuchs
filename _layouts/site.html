@@ -25,7 +25,7 @@ layout: bare
 
 <!-- Nav -->
 
-{% include top_nav.html %}
+{% include main_menu.html %}
 
 {% if page.url == "/index.html" %}
   <div id="banner-wrapper">
@@ -51,10 +51,7 @@ layout: bare
 <!-- Footer -->
 <footer id="footer" class="container">
 
-  <!-- Copyright -->
-    <div id="copyright">
-      {% include bottom_nav.html %}
-    </div>
+    {% include secondary_menu.html %}
 
     Design: <a href="http://html5up.net">HTML5 UP</a>
 
