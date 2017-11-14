@@ -1,5 +1,5 @@
 ---
-title: Sonate  G-Dur op. 35
+title: Sonate G-Dur op. 35
 opus: 35
 instrumentation: für Violine und Klavier
 imslp_project: Violin_Sonata_in_G_major,_Op.35_(Fuchs-Sch%C3%B6nbach,_Ernst)
@@ -27,4 +27,3 @@ edition:
   - score: edition_pollwein_2011_parts.pdf
   - score: edition_pollwein_2011_score.pdf
 ---
-

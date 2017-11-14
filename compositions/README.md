@@ -12,7 +12,7 @@ opus: The opus number of the composition.
 subtitle: The subtitle of the composition.
 instrumentation:
 short: op-OPUS_Title-with-dashes_Nr-X_KEY
-imslp_project: Last part of the URL to the IMSLP project page 
+imslp_project: Last part of the URL to the IMSLP project page
   (e. g. Lobe_den_Herren_-_Maria_zu_lieben_-_Choralpartita,_Op.54_(Fuchs-Sch%C3%B6nbach,_Ernst)).
 imslp_file: Last part of the URL to the IMSLP file
   (e. g. PMLP73484-Ernst_Fuchs-Schoenbach_-_op._54_Choralpartita.pdf)
@@ -34,6 +34,7 @@ edition:
   - score: Name of the score file in the composition folder.
     pdf: Name of the pdf file in the composition folder.
     title: Name of the edition.
+wikidata: e. g. Q43151702
 ---
 ```
 

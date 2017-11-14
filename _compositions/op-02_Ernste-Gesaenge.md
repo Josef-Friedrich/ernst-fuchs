@@ -22,5 +22,5 @@ pieces:
   - title: Der Tod
     key: cis-Moll
     lyricist: M. Claudius
+wikidata: Q43151602
 ---
-
