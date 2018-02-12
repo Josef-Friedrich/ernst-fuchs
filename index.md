@@ -41,7 +41,6 @@ zugänglich, nämlich:
     <li><a href="https://de.wikipedia.org/wiki/Ernst_Fuchs-Sch%C3%B6nbach" class="icon fa-wikipedia-w"><span class="label">deutsche Wikipedia</span></a></li>
     <li><a href="https://commons.wikimedia.org/wiki/Category:Ernst_Fuchs-Sch%C3%B6nbach?uselang=de" class="icon fa-wikipedia-w"><span class="label">Wikicommons</span></a></li>
     <li><a href="http://imslp.org/wiki/Category:Fuchs-Sch%C3%B6nbach%2C_Ernst" class="icon fa-file-o"><span class="label">IMSLP</span></a></li>
-    <li><a href="https://www.youtube.com/channel/UCP0ebAvPbGHJZIHNZlHnLNg" class="icon fa-youtube"><span class="label">Youtube</span></a></li>
 </ul>
 <header>
     <h2>Das Internet vergisst nicht!</h2>
@@ -53,4 +52,3 @@ zugänglich, nämlich:
 * [deutschen Wikipedia](https://de.wikipedia.org/wiki/Ernst_Fuchs-Sch%C3%B6nbach): Kurzbiographie, Werkverzeichnis
 * [Wikicommons](https://commons.wikimedia.org/wiki/Category:Ernst_Fuchs-Sch%C3%B6nbach?uselang=de): alle Kompositionen, Dokumente und Fotos
 * [IMSLP](http://imslp.org/wiki/Category:Fuchs-Sch%C3%B6nbach%2C_Ernst): alle Kompositionen
-* [Youtube](https://www.youtube.com/channel/UCP0ebAvPbGHJZIHNZlHnLNg): Aufnahmen von Wiederaufführungen
